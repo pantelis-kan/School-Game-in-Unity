@@ -1,0 +1,69 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R4 Graphics (ID=0x9851)
+    Vendor:   ATI
+    VRAM:     1007 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\School_beta 2.4\school_beta 2.4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\School_beta 2.4\school_beta 2.4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\School_beta 2.4\school_beta 2.4_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\School_beta 2.4\school_beta 2.4_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\School_beta 2.4\school_beta 2.4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\School_beta 2.4\school_beta 2.4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\School_beta 2.4\school_beta 2.4_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\School_beta 2.4\school_beta 2.4_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\School_beta 2.4\school_beta 2.4_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\School_beta 2.4\school_beta 2.4_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.743 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+Platform assembly: E:\School_beta 2.4\school_beta 2.4_Data\Managed\Boo.Lang.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+UnloadTime: 148.766296 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 24747.
+Total: 30.476101 ms (FindLiveObjects: 3.523600 ms CreateObjectMapping: 0.211800 ms MarkObjects: 5.831800 ms  DeleteObjects: 0.732400 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Platform assembly: E:\School_beta 2.4\school_beta 2.4_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+UnloadTime: 147.352692 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 24737.
+Total: 16.378901 ms (FindLiveObjects: 4.175200 ms CreateObjectMapping: 0.258000 ms MarkObjects: 7.427000 ms  DeleteObjects: 2.840100 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
